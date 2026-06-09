@@ -26,6 +26,11 @@
 *.sql
 *.sqlite
 
+# Python generated files #
+##########################
+__pycache__/
+*.py[cod]
+
 # OS generated files #
 ######################
 .DS_Store
@@ -52,6 +57,7 @@ docs/_*
 # Other #
 #########
 geckopy/geckopy/data_files/*.xml
+results/pichia_app/
 *~
 geckomat/*.mat
 

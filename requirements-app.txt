@@ -1,0 +1,5 @@
+cobra==0.31.1
+python-libsbml==5.21.1
+fastapi
+uvicorn
+streamlit
